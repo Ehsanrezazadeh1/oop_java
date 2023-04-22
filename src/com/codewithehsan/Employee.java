@@ -1,2 +1,5 @@
-package com.codewithehsan;public class Employee {
+package com.codewithehsan;
+
+public class Employee {
+
 }
